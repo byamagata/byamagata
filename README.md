@@ -1,7 +1,9 @@
 Im Benny Yamagata
 
 Software Engineer @Netdocuments
+
 BS Computer Science -> Utah Valley University
+
 Hope to Pursue a Ph.D in Computer Science 
 
 Currently Working On:
